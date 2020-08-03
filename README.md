@@ -21,5 +21,6 @@
 
 __Developers__ :octocat: : [Ntsikelelo Metseeme](https://github.com/Ntsikelel/), 
 [Gloria Baloyi](https://github.com/gbaloyi/) ,
-[Drey Sibanda](https://github.com/lsibanda/),[Tiaan](https://github.com/tiaansmal86/) . 
+[Drey Sibanda](https://github.com/lsibanda/), 
+[Tiaan Smal](https://github.com/tiaansmal98/) . 
 
